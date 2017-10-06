@@ -1,6 +1,8 @@
-## angular2-seed
+## angular4 bootstrap seed
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+A simple starter project demonstrating the basic concepts of Angular 4 with bootstap and layout management.
+
+This will help eyeryone with Login page header and footer settings.
 
 
 ### Usage
